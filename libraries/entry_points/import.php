@@ -112,6 +112,7 @@ $post_params = [
     'noplugin',
     'skip_queries',
     'local_import_file',
+    'db',
 ];
 
 foreach ($post_params as $one_post_param) {
